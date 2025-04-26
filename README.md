@@ -1,4 +1,4 @@
-# 🇧🇷 Tweet Sentiment BR - Brazilian Portuguese Tweet Sentiment Classifier
+# Tweet Sentiment BR - Brazilian Portuguese Tweet Sentiment Classifier
 
 This project applies Natural Language Processing (NLP) techniques to classify Brazilian Portuguese tweets into sentiment categories.  
 Winner of the Kaggle Competition [Brazilian Tweet Sentiment Analysis Challenge](https://www.kaggle.com/competitions/TweetSentimentBR) with **1.0 accuracy**!
